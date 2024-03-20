@@ -1,0 +1,32 @@
+[
+      {
+          "username": "Jclinton101",
+          "email": "jclinton101@gmail.com",
+          "password": "sdhsdjahh2u_443",
+          "role": "admin"
+      },
+      {
+          "username": "chidera1313",
+          "email": "chi@gmail.com",
+          "password": "deraCHI",
+          "role": "reader"
+      },
+      {
+          "username": "PanAfricanPublishers",
+          "email": "panafricanpublishers@gmail.com",
+          "password": "weAREpan",
+          "role": "publisher"
+      },
+      {
+          "username": "Ezeoke231",
+          "email": "eze@gmail.com",
+          "password": "ONyeBALL",
+          "role": "reader"
+      },
+      {
+          "username": "UniversityPress",
+          "email": "unipress@gmail.com",
+          "password": "uniweydeypress",
+          "role": "publisher"
+      }
+  ]
